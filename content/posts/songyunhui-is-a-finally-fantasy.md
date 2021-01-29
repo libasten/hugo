@@ -3,6 +3,7 @@ title: '宋运辉是技术路线打工人的最终幻想'
 date: 2021-01-25T17:18:05+01:00
 draft: false
 ---
+![大江大河](https://lcw-1251984761.cos.ap-shanghai.myqcloud.com/2021/songyunhui.jpg)
 ## 这是一部不错的电视剧
 最近，电视观众对电视剧《大江大河2》的评价颇高，目前在豆瓣上高达9分。
 
